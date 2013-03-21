@@ -1,0 +1,2800 @@
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 4
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (0,)
+		Dlen: 1 Format: <b: Data: (0,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (0,)
+		Dlen: 1 Format: >b: Data: (0,)
+	Raw Data: '7E803410400'
+	Command: 0104
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 5
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (89,)
+		Dlen: 1 Format: <b: Data: (89,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (89,)
+		Dlen: 1 Format: >b: Data: (89,)
+	Raw Data: '7E803410559'
+	Command: 0105
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 6
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (128,)
+		Dlen: 1 Format: <b: Data: (-128,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (128,)
+		Dlen: 1 Format: >b: Data: (-128,)
+	Raw Data: '7E803410680'
+	Command: 0106
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 7
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (127,)
+		Dlen: 1 Format: <b: Data: (127,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (127,)
+		Dlen: 1 Format: >b: Data: (127,)
+	Raw Data: '7E80341077F'
+	Command: 0107
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 13
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (0,)
+		Dlen: 1 Format: <b: Data: (0,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (0,)
+		Dlen: 1 Format: >b: Data: (0,)
+	Raw Data: '7E803410D00'
+	Command: 010d
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 14
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (138,)
+		Dlen: 1 Format: <b: Data: (-118,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (138,)
+		Dlen: 1 Format: >b: Data: (-118,)
+	Raw Data: '7E803410E8A'
+	Command: 010e
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 15
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (75,)
+		Dlen: 1 Format: <b: Data: (75,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (75,)
+		Dlen: 1 Format: >b: Data: (75,)
+	Raw Data: '7E803410F4B'
+	Command: 010f
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 17
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (41,)
+		Dlen: 1 Format: <b: Data: (41,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (41,)
+		Dlen: 1 Format: >b: Data: (41,)
+	Raw Data: '7E803411129'
+	Command: 0111
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 19
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (3,)
+		Dlen: 1 Format: <b: Data: (3,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (3,)
+		Dlen: 1 Format: >b: Data: (3,)
+	Raw Data: '7E803411303'
+	Command: 0113
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 28
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (1,)
+		Dlen: 1 Format: <b: Data: (1,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (1,)
+		Dlen: 1 Format: >b: Data: (1,)
+	Raw Data: '7E803411C01'
+	Command: 011c
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 46
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (0,)
+		Dlen: 1 Format: <b: Data: (0,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (0,)
+		Dlen: 1 Format: >b: Data: (0,)
+	Raw Data: '7E803412E00'
+	Command: 012e
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 48
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (255,)
+		Dlen: 1 Format: <b: Data: (-1,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (255,)
+		Dlen: 1 Format: >b: Data: (-1,)
+	Raw Data: '7E8034130FF'
+	Command: 0130
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 51
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (100,)
+		Dlen: 1 Format: <b: Data: (100,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (100,)
+		Dlen: 1 Format: >b: Data: (100,)
+	Raw Data: '7E803413364'
+	Command: 0133
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 69
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (0,)
+		Dlen: 1 Format: <b: Data: (0,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (0,)
+		Dlen: 1 Format: >b: Data: (0,)
+	Raw Data: '7E803414500'
+	Command: 0145
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 70
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (64,)
+		Dlen: 1 Format: <b: Data: (64,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (64,)
+		Dlen: 1 Format: >b: Data: (64,)
+	Raw Data: '7E803414640'
+	Command: 0146
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 71
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (128,)
+		Dlen: 1 Format: <b: Data: (-128,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (128,)
+		Dlen: 1 Format: >b: Data: (-128,)
+	Raw Data: '7E803414780'
+	Command: 0147
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 1
+	Command: 76
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (41,)
+		Dlen: 1 Format: <b: Data: (41,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (41,)
+		Dlen: 1 Format: >b: Data: (41,)
+	Raw Data: '7E803414C29'
+	Command: 014c
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 9
+	Command: 3
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (1,)
+		Dlen: 1 Format: <b: Data: (1,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (1,)
+		Dlen: 1 Format: >b: Data: (1,)
+	Raw Data: '7E803490301'
+	Command: 0903
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 9
+	Command: 5
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (1,)
+		Dlen: 1 Format: <b: Data: (1,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (1,)
+		Dlen: 1 Format: >b: Data: (1,)
+	Raw Data: '7E803490501'
+	Command: 0905
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 9
+	Command: 7
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (1,)
+		Dlen: 1 Format: <b: Data: (1,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (1,)
+		Dlen: 1 Format: >b: Data: (1,)
+	Raw Data: '7E803490701'
+	Command: 0907
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7E8037F2211'
+	Command: 2200
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7E8037F2211'
+	Command: 2201
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7E8037F2211'
+	Command: 2202
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7E8037F2211'
+	Command: 2203
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7E8037F2211'
+	Command: 2204
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7E8037F2211'
+	Command: 2205
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7E8037F2211'
+	Command: 2206
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7E8037F2211'
+	Command: 2207
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7E8037F2211'
+	Command: 2208
+Packet:
+	Header 1: 7e8
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7E8037F2211'
+	Command: 2209
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 3
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (1,)
+		Dlen: 2 Format: <h: Data: (1,)
+		Dlen: 2 Format: <BB: Data: (1, 0)
+		Dlen: 2 Format: <bb: Data: (1, 0)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (256,)
+		Dlen: 2 Format: >h: Data: (256,)
+		Dlen: 2 Format: >BB: Data: (1, 0)
+		Dlen: 2 Format: >bb: Data: (1, 0)
+	Raw Data: '7E80441030100'
+	Command: 0103
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 12
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (0,)
+		Dlen: 2 Format: <h: Data: (0,)
+		Dlen: 2 Format: <BB: Data: (0, 0)
+		Dlen: 2 Format: <bb: Data: (0, 0)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (0,)
+		Dlen: 2 Format: >h: Data: (0,)
+		Dlen: 2 Format: >BB: Data: (0, 0)
+		Dlen: 2 Format: >bb: Data: (0, 0)
+	Raw Data: '7E804410C0000'
+	Command: 010c
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 16
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (1536,)
+		Dlen: 2 Format: <h: Data: (1536,)
+		Dlen: 2 Format: <BB: Data: (0, 6)
+		Dlen: 2 Format: <bb: Data: (0, 6)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (6,)
+		Dlen: 2 Format: >h: Data: (6,)
+		Dlen: 2 Format: >BB: Data: (0, 6)
+		Dlen: 2 Format: >bb: Data: (0, 6)
+	Raw Data: '7E80441100006'
+	Command: 0110
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 21
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (65428,)
+		Dlen: 2 Format: <h: Data: (-108,)
+		Dlen: 2 Format: <BB: Data: (148, 255)
+		Dlen: 2 Format: <bb: Data: (-108, -1)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (38143,)
+		Dlen: 2 Format: >h: Data: (-27393,)
+		Dlen: 2 Format: >BB: Data: (148, 255)
+		Dlen: 2 Format: >bb: Data: (-108, -1)
+	Raw Data: '7E804411594FF'
+	Command: 0115
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 31
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (14336,)
+		Dlen: 2 Format: <h: Data: (14336,)
+		Dlen: 2 Format: <BB: Data: (0, 56)
+		Dlen: 2 Format: <bb: Data: (0, 56)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (56,)
+		Dlen: 2 Format: >h: Data: (56,)
+		Dlen: 2 Format: >BB: Data: (0, 56)
+		Dlen: 2 Format: >bb: Data: (0, 56)
+	Raw Data: '7E804411F0038'
+	Command: 011f
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 33
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (0,)
+		Dlen: 2 Format: <h: Data: (0,)
+		Dlen: 2 Format: <BB: Data: (0, 0)
+		Dlen: 2 Format: <bb: Data: (0, 0)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (0,)
+		Dlen: 2 Format: >h: Data: (0,)
+		Dlen: 2 Format: >BB: Data: (0, 0)
+		Dlen: 2 Format: >bb: Data: (0, 0)
+	Raw Data: '7E80441210000'
+	Command: 0121
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 49
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (65535,)
+		Dlen: 2 Format: <h: Data: (-1,)
+		Dlen: 2 Format: <BB: Data: (255, 255)
+		Dlen: 2 Format: <bb: Data: (-1, -1)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (65535,)
+		Dlen: 2 Format: >h: Data: (-1,)
+		Dlen: 2 Format: >BB: Data: (255, 255)
+		Dlen: 2 Format: >bb: Data: (-1, -1)
+	Raw Data: '7E8044131FFFF'
+	Command: 0131
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 50
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (57088,)
+		Dlen: 2 Format: <h: Data: (-8448,)
+		Dlen: 2 Format: <BB: Data: (0, 223)
+		Dlen: 2 Format: <bb: Data: (0, -33)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (223,)
+		Dlen: 2 Format: >h: Data: (223,)
+		Dlen: 2 Format: >BB: Data: (0, 223)
+		Dlen: 2 Format: >bb: Data: (0, -33)
+	Raw Data: '7E804413200DF'
+	Command: 0132
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 60
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (44809,)
+		Dlen: 2 Format: <h: Data: (-20727,)
+		Dlen: 2 Format: <BB: Data: (9, 175)
+		Dlen: 2 Format: <bb: Data: (9, -81)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (2479,)
+		Dlen: 2 Format: >h: Data: (2479,)
+		Dlen: 2 Format: >BB: Data: (9, 175)
+		Dlen: 2 Format: >bb: Data: (9, -81)
+	Raw Data: '7E804413C09AF'
+	Command: 013c
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 62
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (9222,)
+		Dlen: 2 Format: <h: Data: (9222,)
+		Dlen: 2 Format: <BB: Data: (6, 36)
+		Dlen: 2 Format: <bb: Data: (6, 36)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (1572,)
+		Dlen: 2 Format: >h: Data: (1572,)
+		Dlen: 2 Format: >BB: Data: (6, 36)
+		Dlen: 2 Format: >bb: Data: (6, 36)
+	Raw Data: '7E804413E0624'
+	Command: 013e
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 66
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (61493,)
+		Dlen: 2 Format: <h: Data: (-4043,)
+		Dlen: 2 Format: <BB: Data: (53, 240)
+		Dlen: 2 Format: <bb: Data: (53, -16)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (13808,)
+		Dlen: 2 Format: >h: Data: (13808,)
+		Dlen: 2 Format: >BB: Data: (53, 240)
+		Dlen: 2 Format: >bb: Data: (53, -16)
+	Raw Data: '7E804414235F0'
+	Command: 0142
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 67
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (0,)
+		Dlen: 2 Format: <h: Data: (0,)
+		Dlen: 2 Format: <BB: Data: (0, 0)
+		Dlen: 2 Format: <bb: Data: (0, 0)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (0,)
+		Dlen: 2 Format: >h: Data: (0,)
+		Dlen: 2 Format: >BB: Data: (0, 0)
+		Dlen: 2 Format: >bb: Data: (0, 0)
+	Raw Data: '7E80441430000'
+	Command: 0143
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 68
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (36440,)
+		Dlen: 2 Format: <h: Data: (-29096,)
+		Dlen: 2 Format: <BB: Data: (88, 142)
+		Dlen: 2 Format: <bb: Data: (88, -114)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (22670,)
+		Dlen: 2 Format: >h: Data: (22670,)
+		Dlen: 2 Format: >BB: Data: (88, 142)
+		Dlen: 2 Format: >bb: Data: (88, -114)
+	Raw Data: '7E8044144588E'
+	Command: 0144
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 77
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (0,)
+		Dlen: 2 Format: <h: Data: (0,)
+		Dlen: 2 Format: <BB: Data: (0, 0)
+		Dlen: 2 Format: <bb: Data: (0, 0)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (0,)
+		Dlen: 2 Format: >h: Data: (0,)
+		Dlen: 2 Format: >BB: Data: (0, 0)
+		Dlen: 2 Format: >bb: Data: (0, 0)
+	Raw Data: '7E804414D0000'
+	Command: 014d
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 78
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (65535,)
+		Dlen: 2 Format: <h: Data: (-1,)
+		Dlen: 2 Format: <BB: Data: (255, 255)
+		Dlen: 2 Format: <bb: Data: (-1, -1)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (65535,)
+		Dlen: 2 Format: >h: Data: (-1,)
+		Dlen: 2 Format: >BB: Data: (255, 255)
+		Dlen: 2 Format: >bb: Data: (-1, -1)
+	Raw Data: '7E804414EFFFF'
+	Command: 014e
+Packet:
+	Header 1: 7e8
+	Header 2: 4
+	Mode: 1
+	Command: 83
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (38990,)
+		Dlen: 2 Format: <h: Data: (-26546,)
+		Dlen: 2 Format: <BB: Data: (78, 152)
+		Dlen: 2 Format: <bb: Data: (78, -104)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (20120,)
+		Dlen: 2 Format: >h: Data: (20120,)
+		Dlen: 2 Format: >BB: Data: (78, 152)
+		Dlen: 2 Format: >bb: Data: (78, -104)
+	Raw Data: '7E80441534E98'
+	Command: 0153
+Packet:
+	Header 1: 7e8
+	Header 2: 6
+	Mode: 1
+	Command: 0
+	Data: 
+		Dlen: 4 Format: <I: Data: (329785278,)
+		Dlen: 4 Format: <i: Data: (329785278,)
+		Dlen: 4 Format: <HH: Data: (8126, 5032)
+		Dlen: 4 Format: <hh: Data: (8126, 5032)
+		Dlen: 4 Format: <BBBB: Data: (190, 31, 168, 19)
+		Dlen: 4 Format: <bbbb: Data: (-66, 31, -88, 19)
+		Dlen: 4 Format: >I: Data: (3189745683,)
+		Dlen: 4 Format: >i: Data: (-1105221613,)
+		Dlen: 4 Format: >HH: Data: (48671, 43027)
+		Dlen: 4 Format: >hh: Data: (-16865, -22509)
+		Dlen: 4 Format: >BBBB: Data: (190, 31, 168, 19)
+		Dlen: 4 Format: >bbbb: Data: (-66, 31, -88, 19)
+	Raw Data: '7E8064100BE1FA813'
+	Command: 0100
+Packet:
+	Header 1: 7e8
+	Header 2: 6
+	Mode: 1
+	Command: 1
+	Data: 
+		Dlen: 4 Format: <I: Data: (2426624,)
+		Dlen: 4 Format: <i: Data: (2426624,)
+		Dlen: 4 Format: <HH: Data: (1792, 37)
+		Dlen: 4 Format: <hh: Data: (1792, 37)
+		Dlen: 4 Format: <BBBB: Data: (0, 7, 37, 0)
+		Dlen: 4 Format: <bbbb: Data: (0, 7, 37, 0)
+		Dlen: 4 Format: >I: Data: (468224,)
+		Dlen: 4 Format: >i: Data: (468224,)
+		Dlen: 4 Format: >HH: Data: (7, 9472)
+		Dlen: 4 Format: >hh: Data: (7, 9472)
+		Dlen: 4 Format: >BBBB: Data: (0, 7, 37, 0)
+		Dlen: 4 Format: >bbbb: Data: (0, 7, 37, 0)
+	Raw Data: '7E806410100072500'
+	Command: 0101
+Packet:
+	Header 1: 7e8
+	Header 2: 6
+	Mode: 1
+	Command: 32
+	Data: 
+		Dlen: 4 Format: <I: Data: (367003024,)
+		Dlen: 4 Format: <i: Data: (367003024,)
+		Dlen: 4 Format: <HH: Data: (1424, 5600)
+		Dlen: 4 Format: <hh: Data: (1424, 5600)
+		Dlen: 4 Format: <BBBB: Data: (144, 5, 224, 21)
+		Dlen: 4 Format: <bbbb: Data: (-112, 5, -32, 21)
+		Dlen: 4 Format: >I: Data: (2416304149,)
+		Dlen: 4 Format: >i: Data: (-1878663147,)
+		Dlen: 4 Format: >HH: Data: (36869, 57365)
+		Dlen: 4 Format: >hh: Data: (-28667, -8171)
+		Dlen: 4 Format: >BBBB: Data: (144, 5, 224, 21)
+		Dlen: 4 Format: >bbbb: Data: (-112, 5, -32, 21)
+	Raw Data: '7E80641209005E015'
+	Command: 0120
+Packet:
+	Header 1: 7e8
+	Header 2: 6
+	Mode: 1
+	Command: 36
+	Data: 
+		Dlen: 4 Format: <I: Data: (1030423681,)
+		Dlen: 4 Format: <i: Data: (1030423681,)
+		Dlen: 4 Format: <HH: Data: (1153, 15723)
+		Dlen: 4 Format: <hh: Data: (1153, 15723)
+		Dlen: 4 Format: <BBBB: Data: (129, 4, 107, 61)
+		Dlen: 4 Format: <bbbb: Data: (-127, 4, 107, 61)
+		Dlen: 4 Format: >I: Data: (2164550461,)
+		Dlen: 4 Format: >i: Data: (-2130416835,)
+		Dlen: 4 Format: >HH: Data: (33028, 27453)
+		Dlen: 4 Format: >hh: Data: (-32508, 27453)
+		Dlen: 4 Format: >BBBB: Data: (129, 4, 107, 61)
+		Dlen: 4 Format: >bbbb: Data: (-127, 4, 107, 61)
+	Raw Data: '7E806412481046B3D'
+	Command: 0124
+Packet:
+	Header 1: 7e8
+	Header 2: 6
+	Mode: 1
+	Command: 64
+	Data: 
+		Dlen: 4 Format: <I: Data: (2104574,)
+		Dlen: 4 Format: <i: Data: (2104574,)
+		Dlen: 4 Format: <HH: Data: (7422, 32)
+		Dlen: 4 Format: <hh: Data: (7422, 32)
+		Dlen: 4 Format: <BBBB: Data: (254, 28, 32, 0)
+		Dlen: 4 Format: <bbbb: Data: (-2, 28, 32, 0)
+		Dlen: 4 Format: >I: Data: (4263256064,)
+		Dlen: 4 Format: >i: Data: (-31711232,)
+		Dlen: 4 Format: >HH: Data: (65052, 8192)
+		Dlen: 4 Format: >hh: Data: (-484, 8192)
+		Dlen: 4 Format: >BBBB: Data: (254, 28, 32, 0)
+		Dlen: 4 Format: >bbbb: Data: (-2, 28, 32, 0)
+	Raw Data: '7E8064140FE1C2000'
+	Command: 0140
+Packet:
+	Header 1: 7e8
+	Header 2: 6
+	Mode: 1
+	Command: 65
+	Data: 
+		Dlen: 4 Format: <I: Data: (623183616,)
+		Dlen: 4 Format: <i: Data: (623183616,)
+		Dlen: 4 Format: <HH: Data: (1792, 9509)
+		Dlen: 4 Format: <hh: Data: (1792, 9509)
+		Dlen: 4 Format: <BBBB: Data: (0, 7, 37, 37)
+		Dlen: 4 Format: <bbbb: Data: (0, 7, 37, 37)
+		Dlen: 4 Format: >I: Data: (468261,)
+		Dlen: 4 Format: >i: Data: (468261,)
+		Dlen: 4 Format: >HH: Data: (7, 9509)
+		Dlen: 4 Format: >hh: Data: (7, 9509)
+		Dlen: 4 Format: >BBBB: Data: (0, 7, 37, 37)
+		Dlen: 4 Format: >bbbb: Data: (0, 7, 37, 37)
+	Raw Data: '7E806414100072525'
+	Command: 0141
+Packet:
+	Header 1: 7e8
+	Header 2: 6
+	Mode: 9
+	Command: 0
+	Data: 
+		Dlen: 4 Format: <I: Data: (63,)
+		Dlen: 4 Format: <i: Data: (63,)
+		Dlen: 4 Format: <HH: Data: (63, 0)
+		Dlen: 4 Format: <hh: Data: (63, 0)
+		Dlen: 4 Format: <BBBB: Data: (63, 0, 0, 0)
+		Dlen: 4 Format: <bbbb: Data: (63, 0, 0, 0)
+		Dlen: 4 Format: >I: Data: (1056964608,)
+		Dlen: 4 Format: >i: Data: (1056964608,)
+		Dlen: 4 Format: >HH: Data: (16128, 0)
+		Dlen: 4 Format: >hh: Data: (16128, 0)
+		Dlen: 4 Format: >BBBB: Data: (63, 0, 0, 0)
+		Dlen: 4 Format: >bbbb: Data: (63, 0, 0, 0)
+	Raw Data: '7E80649003F000000'
+	Command: 0900
+Packet:
+	Header 1: 7e8
+	Header 2: 7
+	Mode: 9
+	Command: 6
+	Data: 
+		Dlen: 5 Format: <I: Data: (553757185,)
+		Dlen: 5 Format: <i: Data: (553757185,)
+		Dlen: 5 Format: <HH: Data: (43521, 8449)
+		Dlen: 5 Format: <hh: Data: (-22015, 8449)
+		Dlen: 5 Format: <BBBBB: Data: (1, 170, 1, 33, 59)
+		Dlen: 5 Format: <bbbbb: Data: (1, -86, 1, 33, 59)
+		Dlen: 5 Format: >I: Data: (27918625,)
+		Dlen: 5 Format: >i: Data: (27918625,)
+		Dlen: 5 Format: >HH: Data: (426, 289)
+		Dlen: 5 Format: >hh: Data: (426, 289)
+		Dlen: 5 Format: >BBBBB: Data: (1, 170, 1, 33, 59)
+		Dlen: 5 Format: >bbbbb: Data: (1, -86, 1, 33, 59)
+	Raw Data: '7E807490601AA01213B'
+	Command: 0906
+Packet:
+	Header 1: 7e8
+	Header 2: 10
+	Mode: -45
+	Command: 73
+	Data: 
+		Dlen: 5 Format: <I: Data: (875757828,)
+		Dlen: 5 Format: <i: Data: (875757828,)
+		Dlen: 5 Format: <HH: Data: (260, 13363)
+		Dlen: 5 Format: <hh: Data: (260, 13363)
+		Dlen: 5 Format: <BBBBB: Data: (4, 1, 51, 52, 55)
+		Dlen: 5 Format: <bbbbb: Data: (4, 1, 51, 52, 55)
+		Dlen: 5 Format: >I: Data: (67187508,)
+		Dlen: 5 Format: >i: Data: (67187508,)
+		Dlen: 5 Format: >HH: Data: (1025, 13108)
+		Dlen: 5 Format: >hh: Data: (1025, 13108)
+		Dlen: 5 Format: >BBBBB: Data: (4, 1, 51, 52, 55)
+		Dlen: 5 Format: >bbbbb: Data: (4, 1, 51, 52, 55)
+	Raw Data: '7E81013490401333437'
+	Command: 0904
+Packet:
+	Header 1: 7e8
+	Header 2: 10
+	Mode: -29
+	Command: 73
+	Data: 
+		Dlen: 5 Format: <I: Data: (1225134088,)
+		Dlen: 5 Format: <i: Data: (1225134088,)
+		Dlen: 5 Format: <HH: Data: (4104, 18694)
+		Dlen: 5 Format: <hh: Data: (4104, 18694)
+		Dlen: 5 Format: <BBBBB: Data: (8, 16, 6, 73, 25)
+		Dlen: 5 Format: <bbbbb: Data: (8, 16, 6, 73, 25)
+		Dlen: 5 Format: >I: Data: (135267913,)
+		Dlen: 5 Format: >i: Data: (135267913,)
+		Dlen: 5 Format: >HH: Data: (2064, 1609)
+		Dlen: 5 Format: >hh: Data: (2064, 1609)
+		Dlen: 5 Format: >BBBBB: Data: (8, 16, 6, 73, 25)
+		Dlen: 5 Format: >bbbbb: Data: (8, 16, 6, 73, 25)
+	Raw Data: '7E81023490810064919'
+	Command: 0908
+Packet:
+	Header 1: 7e8
+	Header 2: 21
+	Mode: -16
+	Command: 57
+	Data: 
+		Dlen: 5 Format: <I: Data: (3158064,)
+		Dlen: 5 Format: <i: Data: (3158064,)
+		Dlen: 5 Format: <HH: Data: (12336, 48)
+		Dlen: 5 Format: <hh: Data: (12336, 48)
+		Dlen: 5 Format: <BBBBB: Data: (48, 48, 48, 0, 0)
+		Dlen: 5 Format: <bbbbb: Data: (48, 48, 48, 0, 0)
+		Dlen: 5 Format: >I: Data: (808464384,)
+		Dlen: 5 Format: >i: Data: (808464384,)
+		Dlen: 5 Format: >HH: Data: (12336, 12288)
+		Dlen: 5 Format: >hh: Data: (12336, 12288)
+		Dlen: 5 Format: >BBBBB: Data: (48, 48, 48, 0, 0)
+		Dlen: 5 Format: >bbbbb: Data: (48, 48, 48, 0, 0)
+	Raw Data: '7E82130393030300000'
+	Command: 0904
+Packet:
+	Header 1: 7e8
+	Header 2: 21
+	Mode: 88
+	Command: 14
+	Data: 
+		Dlen: 5 Format: <I: Data: (4523655,)
+		Dlen: 5 Format: <i: Data: (4523655,)
+		Dlen: 5 Format: <HH: Data: (1671, 69)
+		Dlen: 5 Format: <hh: Data: (1671, 69)
+		Dlen: 5 Format: <BBBBB: Data: (135, 6, 69, 0, 0)
+		Dlen: 5 Format: <bbbbb: Data: (-121, 6, 69, 0, 0)
+		Dlen: 5 Format: >I: Data: (2265335040,)
+		Dlen: 5 Format: >i: Data: (-2029632256,)
+		Dlen: 5 Format: >HH: Data: (34566, 17664)
+		Dlen: 5 Format: >hh: Data: (-30970, 17664)
+		Dlen: 5 Format: >BBBBB: Data: (135, 6, 69, 0, 0)
+		Dlen: 5 Format: >bbbbb: Data: (-121, 6, 69, 0, 0)
+	Raw Data: '7E821980E8706450000'
+	Command: 0908
+Packet:
+	Header 1: 7e8
+	Header 2: 22
+	Mode: -64
+	Command: 0
+	Data: 
+		Dlen: 5 Format: <I: Data: (1158078217,)
+		Dlen: 5 Format: <i: Data: (1158078217,)
+		Dlen: 5 Format: <HH: Data: (57097, 17670)
+		Dlen: 5 Format: <hh: Data: (-8439, 17670)
+		Dlen: 5 Format: <BBBBB: Data: (9, 223, 6, 69, 0)
+		Dlen: 5 Format: <bbbbb: Data: (9, -33, 6, 69, 0)
+		Dlen: 5 Format: >I: Data: (165611077,)
+		Dlen: 5 Format: >i: Data: (165611077,)
+		Dlen: 5 Format: >HH: Data: (2527, 1605)
+		Dlen: 5 Format: >hh: Data: (2527, 1605)
+		Dlen: 5 Format: >BBBBB: Data: (9, 223, 6, 69, 0)
+		Dlen: 5 Format: >bbbbb: Data: (9, -33, 6, 69, 0)
+	Raw Data: '7E822000009DF064500'
+	Command: 0908
+Packet:
+	Header 1: 7e8
+	Header 2: 22
+	Mode: -64
+	Command: 0
+	Data: 
+		Dlen: 5 Format: <I: Data: (0,)
+		Dlen: 5 Format: <i: Data: (0,)
+		Dlen: 5 Format: <HH: Data: (0, 0)
+		Dlen: 5 Format: <hh: Data: (0, 0)
+		Dlen: 5 Format: <BBBBB: Data: (0, 0, 0, 0, 0)
+		Dlen: 5 Format: <bbbbb: Data: (0, 0, 0, 0, 0)
+		Dlen: 5 Format: >I: Data: (0,)
+		Dlen: 5 Format: >i: Data: (0,)
+		Dlen: 5 Format: >HH: Data: (0, 0)
+		Dlen: 5 Format: >hh: Data: (0, 0)
+		Dlen: 5 Format: >BBBBB: Data: (0, 0, 0, 0, 0)
+		Dlen: 5 Format: >bbbbb: Data: (0, 0, 0, 0, 0)
+	Raw Data: '7E82200000000000000'
+	Command: 0904
+Packet:
+	Header 1: 7e8
+	Header 2: 23
+	Mode: -64
+	Command: 0
+	Data: 
+		Dlen: 5 Format: <I: Data: (107223040,)
+		Dlen: 5 Format: <i: Data: (107223040,)
+		Dlen: 5 Format: <HH: Data: (6144, 1636)
+		Dlen: 5 Format: <hh: Data: (6144, 1636)
+		Dlen: 5 Format: <BBBBB: Data: (0, 24, 100, 6, 69)
+		Dlen: 5 Format: <bbbbb: Data: (0, 24, 100, 6, 69)
+		Dlen: 5 Format: >I: Data: (1598470,)
+		Dlen: 5 Format: >i: Data: (1598470,)
+		Dlen: 5 Format: >HH: Data: (24, 25606)
+		Dlen: 5 Format: >hh: Data: (24, 25606)
+		Dlen: 5 Format: >BBBBB: Data: (0, 24, 100, 6, 69)
+		Dlen: 5 Format: >bbbbb: Data: (0, 24, 100, 6, 69)
+	Raw Data: '7E82300000018640645'
+	Command: 0908
+Packet:
+	Header 1: 7e8
+	Header 2: 24
+	Mode: -64
+	Command: 0
+	Data: 
+		Dlen: 5 Format: <I: Data: (3741450240,)
+		Dlen: 5 Format: <i: Data: (-553517056,)
+		Dlen: 5 Format: <HH: Data: (0, 57090)
+		Dlen: 5 Format: <hh: Data: (0, -8446)
+		Dlen: 5 Format: <BBBBB: Data: (0, 0, 2, 223, 2)
+		Dlen: 5 Format: <bbbbb: Data: (0, 0, 2, -33, 2)
+		Dlen: 5 Format: >I: Data: (735,)
+		Dlen: 5 Format: >i: Data: (735,)
+		Dlen: 5 Format: >HH: Data: (0, 735)
+		Dlen: 5 Format: >hh: Data: (0, 735)
+		Dlen: 5 Format: >BBBBB: Data: (0, 0, 2, 223, 2)
+		Dlen: 5 Format: >bbbbb: Data: (0, 0, 2, -33, 2)
+	Raw Data: '7E8240000000002DF02'
+	Command: 0908
+Packet:
+	Header 1: 7e8
+	Header 2: 25
+	Mode: -64
+	Command: 0
+	Data: 
+		Dlen: 5 Format: <I: Data: (0,)
+		Dlen: 5 Format: <i: Data: (0,)
+		Dlen: 5 Format: <HH: Data: (0, 0)
+		Dlen: 5 Format: <hh: Data: (0, 0)
+		Dlen: 5 Format: <BBBBB: Data: (0, 0, 0, 0, 0)
+		Dlen: 5 Format: <bbbbb: Data: (0, 0, 0, 0, 0)
+		Dlen: 5 Format: >I: Data: (0,)
+		Dlen: 5 Format: >i: Data: (0,)
+		Dlen: 5 Format: >HH: Data: (0, 0)
+		Dlen: 5 Format: >hh: Data: (0, 0)
+		Dlen: 5 Format: >BBBBB: Data: (0, 0, 0, 0, 0)
+		Dlen: 5 Format: >bbbbb: Data: (0, 0, 0, 0, 0)
+	Raw Data: '7E82500000000000000'
+	Command: 0908
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 1
+	Command: 4
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (0,)
+		Dlen: 1 Format: <b: Data: (0,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (0,)
+		Dlen: 1 Format: >b: Data: (0,)
+	Raw Data: '7EA03410400'
+	Command: 0104
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 1
+	Command: 5
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (89,)
+		Dlen: 1 Format: <b: Data: (89,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (89,)
+		Dlen: 1 Format: >b: Data: (89,)
+	Raw Data: '7EA03410559'
+	Command: 0105
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 1
+	Command: 13
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (0,)
+		Dlen: 1 Format: <b: Data: (0,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (0,)
+		Dlen: 1 Format: >b: Data: (0,)
+	Raw Data: '7EA03410D00'
+	Command: 010d
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 1
+	Command: 15
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (75,)
+		Dlen: 1 Format: <b: Data: (75,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (75,)
+		Dlen: 1 Format: >b: Data: (75,)
+	Raw Data: '7EA03410F4B'
+	Command: 010f
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 1
+	Command: 17
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (41,)
+		Dlen: 1 Format: <b: Data: (41,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (41,)
+		Dlen: 1 Format: >b: Data: (41,)
+	Raw Data: '7EA03411129'
+	Command: 0111
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 1
+	Command: 28
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (1,)
+		Dlen: 1 Format: <b: Data: (1,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (1,)
+		Dlen: 1 Format: >b: Data: (1,)
+	Raw Data: '7EA03411C01'
+	Command: 011c
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 1
+	Command: 48
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (255,)
+		Dlen: 1 Format: <b: Data: (-1,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (255,)
+		Dlen: 1 Format: >b: Data: (-1,)
+	Raw Data: '7EA034130FF'
+	Command: 0130
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 1
+	Command: 70
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (64,)
+		Dlen: 1 Format: <b: Data: (64,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (64,)
+		Dlen: 1 Format: >b: Data: (64,)
+	Raw Data: '7EA03414640'
+	Command: 0146
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 1
+	Command: 73
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (41,)
+		Dlen: 1 Format: <b: Data: (41,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (41,)
+		Dlen: 1 Format: >b: Data: (41,)
+	Raw Data: '7EA03414929'
+	Command: 0149
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 1
+	Command: 74
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (82,)
+		Dlen: 1 Format: <b: Data: (82,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (82,)
+		Dlen: 1 Format: >b: Data: (82,)
+	Raw Data: '7EA03414A52'
+	Command: 014a
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 9
+	Command: 1
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (1,)
+		Dlen: 1 Format: <b: Data: (1,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (1,)
+		Dlen: 1 Format: >b: Data: (1,)
+	Raw Data: '7EA03490101'
+	Command: 0901
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 9
+	Command: 3
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (1,)
+		Dlen: 1 Format: <b: Data: (1,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (1,)
+		Dlen: 1 Format: >b: Data: (1,)
+	Raw Data: '7EA03490301'
+	Command: 0903
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 9
+	Command: 5
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (1,)
+		Dlen: 1 Format: <b: Data: (1,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (1,)
+		Dlen: 1 Format: >b: Data: (1,)
+	Raw Data: '7EA03490501'
+	Command: 0905
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EA037F2211'
+	Command: 2200
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EA037F2211'
+	Command: 2201
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EA037F2211'
+	Command: 2202
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EA037F2211'
+	Command: 2203
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EA037F2211'
+	Command: 2204
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EA037F2211'
+	Command: 2205
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EA037F2211'
+	Command: 2206
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EA037F2211'
+	Command: 2207
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EA037F2211'
+	Command: 2208
+Packet:
+	Header 1: 7ea
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EA037F2211'
+	Command: 2209
+Packet:
+	Header 1: 7ea
+	Header 2: 4
+	Mode: 1
+	Command: 12
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (0,)
+		Dlen: 2 Format: <h: Data: (0,)
+		Dlen: 2 Format: <BB: Data: (0, 0)
+		Dlen: 2 Format: <bb: Data: (0, 0)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (0,)
+		Dlen: 2 Format: >h: Data: (0,)
+		Dlen: 2 Format: >BB: Data: (0, 0)
+		Dlen: 2 Format: >bb: Data: (0, 0)
+	Raw Data: '7EA04410C0000'
+	Command: 010c
+Packet:
+	Header 1: 7ea
+	Header 2: 4
+	Mode: 1
+	Command: 31
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (14080,)
+		Dlen: 2 Format: <h: Data: (14080,)
+		Dlen: 2 Format: <BB: Data: (0, 55)
+		Dlen: 2 Format: <bb: Data: (0, 55)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (55,)
+		Dlen: 2 Format: >h: Data: (55,)
+		Dlen: 2 Format: >BB: Data: (0, 55)
+		Dlen: 2 Format: >bb: Data: (0, 55)
+	Raw Data: '7EA04411F0037'
+	Command: 011f
+Packet:
+	Header 1: 7ea
+	Header 2: 4
+	Mode: 1
+	Command: 33
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (0,)
+		Dlen: 2 Format: <h: Data: (0,)
+		Dlen: 2 Format: <BB: Data: (0, 0)
+		Dlen: 2 Format: <bb: Data: (0, 0)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (0,)
+		Dlen: 2 Format: >h: Data: (0,)
+		Dlen: 2 Format: >BB: Data: (0, 0)
+		Dlen: 2 Format: >bb: Data: (0, 0)
+	Raw Data: '7EA0441210000'
+	Command: 0121
+Packet:
+	Header 1: 7ea
+	Header 2: 4
+	Mode: 1
+	Command: 49
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (65535,)
+		Dlen: 2 Format: <h: Data: (-1,)
+		Dlen: 2 Format: <BB: Data: (255, 255)
+		Dlen: 2 Format: <bb: Data: (-1, -1)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (65535,)
+		Dlen: 2 Format: >h: Data: (-1,)
+		Dlen: 2 Format: >BB: Data: (255, 255)
+		Dlen: 2 Format: >bb: Data: (-1, -1)
+	Raw Data: '7EA044131FFFF'
+	Command: 0131
+Packet:
+	Header 1: 7ea
+	Header 2: 4
+	Mode: 1
+	Command: 66
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (51509,)
+		Dlen: 2 Format: <h: Data: (-14027,)
+		Dlen: 2 Format: <BB: Data: (53, 201)
+		Dlen: 2 Format: <bb: Data: (53, -55)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (13769,)
+		Dlen: 2 Format: >h: Data: (13769,)
+		Dlen: 2 Format: >BB: Data: (53, 201)
+		Dlen: 2 Format: >bb: Data: (53, -55)
+	Raw Data: '7EA04414235C9'
+	Command: 0142
+Packet:
+	Header 1: 7ea
+	Header 2: 4
+	Mode: 1
+	Command: 77
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (0,)
+		Dlen: 2 Format: <h: Data: (0,)
+		Dlen: 2 Format: <BB: Data: (0, 0)
+		Dlen: 2 Format: <bb: Data: (0, 0)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (0,)
+		Dlen: 2 Format: >h: Data: (0,)
+		Dlen: 2 Format: >BB: Data: (0, 0)
+		Dlen: 2 Format: >bb: Data: (0, 0)
+	Raw Data: '7EA04414D0000'
+	Command: 014d
+Packet:
+	Header 1: 7ea
+	Header 2: 4
+	Mode: 1
+	Command: 78
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (65535,)
+		Dlen: 2 Format: <h: Data: (-1,)
+		Dlen: 2 Format: <BB: Data: (255, 255)
+		Dlen: 2 Format: <bb: Data: (-1, -1)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (65535,)
+		Dlen: 2 Format: >h: Data: (-1,)
+		Dlen: 2 Format: >BB: Data: (255, 255)
+		Dlen: 2 Format: >bb: Data: (-1, -1)
+	Raw Data: '7EA04414EFFFF'
+	Command: 014e
+Packet:
+	Header 1: 7ea
+	Header 2: 6
+	Mode: 1
+	Command: 0
+	Data: 
+		Dlen: 4 Format: <I: Data: (327162520,)
+		Dlen: 4 Format: <i: Data: (327162520,)
+		Dlen: 4 Format: <HH: Data: (6808, 4992)
+		Dlen: 4 Format: <hh: Data: (6808, 4992)
+		Dlen: 4 Format: <BBBB: Data: (152, 26, 128, 19)
+		Dlen: 4 Format: <bbbb: Data: (-104, 26, -128, 19)
+		Dlen: 4 Format: >I: Data: (2551873555,)
+		Dlen: 4 Format: >i: Data: (-1743093741,)
+		Dlen: 4 Format: >HH: Data: (38938, 32787)
+		Dlen: 4 Format: >hh: Data: (-26598, -32749)
+		Dlen: 4 Format: >BBBB: Data: (152, 26, 128, 19)
+		Dlen: 4 Format: >bbbb: Data: (-104, 26, -128, 19)
+	Raw Data: '7EA064100981A8013'
+	Command: 0100
+Packet:
+	Header 1: 7ea
+	Header 2: 6
+	Mode: 1
+	Command: 1
+	Data: 
+		Dlen: 4 Format: <I: Data: (1024,)
+		Dlen: 4 Format: <i: Data: (1024,)
+		Dlen: 4 Format: <HH: Data: (1024, 0)
+		Dlen: 4 Format: <hh: Data: (1024, 0)
+		Dlen: 4 Format: <BBBB: Data: (0, 4, 0, 0)
+		Dlen: 4 Format: <bbbb: Data: (0, 4, 0, 0)
+		Dlen: 4 Format: >I: Data: (262144,)
+		Dlen: 4 Format: >i: Data: (262144,)
+		Dlen: 4 Format: >HH: Data: (4, 0)
+		Dlen: 4 Format: >hh: Data: (4, 0)
+		Dlen: 4 Format: >BBBB: Data: (0, 4, 0, 0)
+		Dlen: 4 Format: >bbbb: Data: (0, 4, 0, 0)
+	Raw Data: '7EA06410100040000'
+	Command: 0101
+Packet:
+	Header 1: 7ea
+	Header 2: 6
+	Mode: 1
+	Command: 32
+	Data: 
+		Dlen: 4 Format: <I: Data: (25166208,)
+		Dlen: 4 Format: <i: Data: (25166208,)
+		Dlen: 4 Format: <HH: Data: (384, 384)
+		Dlen: 4 Format: <hh: Data: (384, 384)
+		Dlen: 4 Format: <BBBB: Data: (128, 1, 128, 1)
+		Dlen: 4 Format: <bbbb: Data: (-128, 1, -128, 1)
+		Dlen: 4 Format: >I: Data: (2147581953,)
+		Dlen: 4 Format: >i: Data: (-2147385343,)
+		Dlen: 4 Format: >HH: Data: (32769, 32769)
+		Dlen: 4 Format: >hh: Data: (-32767, -32767)
+		Dlen: 4 Format: >BBBB: Data: (128, 1, 128, 1)
+		Dlen: 4 Format: >bbbb: Data: (-128, 1, -128, 1)
+	Raw Data: '7EA06412080018001'
+	Command: 0120
+Packet:
+	Header 1: 7ea
+	Header 2: 6
+	Mode: 1
+	Command: 64
+	Data: 
+		Dlen: 4 Format: <I: Data: (52420,)
+		Dlen: 4 Format: <i: Data: (52420,)
+		Dlen: 4 Format: <HH: Data: (52420, 0)
+		Dlen: 4 Format: <hh: Data: (-13116, 0)
+		Dlen: 4 Format: <BBBB: Data: (196, 204, 0, 0)
+		Dlen: 4 Format: <bbbb: Data: (-60, -52, 0, 0)
+		Dlen: 4 Format: >I: Data: (3301703680,)
+		Dlen: 4 Format: >i: Data: (-993263616,)
+		Dlen: 4 Format: >HH: Data: (50380, 0)
+		Dlen: 4 Format: >hh: Data: (-15156, 0)
+		Dlen: 4 Format: >BBBB: Data: (196, 204, 0, 0)
+		Dlen: 4 Format: >bbbb: Data: (-60, -52, 0, 0)
+	Raw Data: '7EA064140C4CC0000'
+	Command: 0140
+Packet:
+	Header 1: 7ea
+	Header 2: 6
+	Mode: 1
+	Command: 65
+	Data: 
+		Dlen: 4 Format: <I: Data: (1024,)
+		Dlen: 4 Format: <i: Data: (1024,)
+		Dlen: 4 Format: <HH: Data: (1024, 0)
+		Dlen: 4 Format: <hh: Data: (1024, 0)
+		Dlen: 4 Format: <BBBB: Data: (0, 4, 0, 0)
+		Dlen: 4 Format: <bbbb: Data: (0, 4, 0, 0)
+		Dlen: 4 Format: >I: Data: (262144,)
+		Dlen: 4 Format: >i: Data: (262144,)
+		Dlen: 4 Format: >HH: Data: (4, 0)
+		Dlen: 4 Format: >hh: Data: (4, 0)
+		Dlen: 4 Format: >BBBB: Data: (0, 4, 0, 0)
+		Dlen: 4 Format: >bbbb: Data: (0, 4, 0, 0)
+	Raw Data: '7EA06414100040000'
+	Command: 0141
+Packet:
+	Header 1: 7ea
+	Header 2: 6
+	Mode: 9
+	Command: 0
+	Data: 
+		Dlen: 4 Format: <I: Data: (252,)
+		Dlen: 4 Format: <i: Data: (252,)
+		Dlen: 4 Format: <HH: Data: (252, 0)
+		Dlen: 4 Format: <hh: Data: (252, 0)
+		Dlen: 4 Format: <BBBB: Data: (252, 0, 0, 0)
+		Dlen: 4 Format: <bbbb: Data: (-4, 0, 0, 0)
+		Dlen: 4 Format: >I: Data: (4227858432,)
+		Dlen: 4 Format: >i: Data: (-67108864,)
+		Dlen: 4 Format: >HH: Data: (64512, 0)
+		Dlen: 4 Format: >hh: Data: (-1024, 0)
+		Dlen: 4 Format: >BBBB: Data: (252, 0, 0, 0)
+		Dlen: 4 Format: >bbbb: Data: (-4, 0, 0, 0)
+	Raw Data: '7EA064900FC000000'
+	Command: 0900
+Packet:
+	Header 1: 7ea
+	Header 2: 7
+	Mode: 9
+	Command: 6
+	Data: 
+		Dlen: 5 Format: <I: Data: (4120587009,)
+		Dlen: 5 Format: <i: Data: (-174380287,)
+		Dlen: 5 Format: <HH: Data: (11009, 62875)
+		Dlen: 5 Format: <hh: Data: (11009, -2661)
+		Dlen: 5 Format: <BBBBB: Data: (1, 43, 155, 245, 228)
+		Dlen: 5 Format: <bbbbb: Data: (1, 43, -101, -11, -28)
+		Dlen: 5 Format: >I: Data: (19635189,)
+		Dlen: 5 Format: >i: Data: (19635189,)
+		Dlen: 5 Format: >HH: Data: (299, 39925)
+		Dlen: 5 Format: >hh: Data: (299, -25611)
+		Dlen: 5 Format: >BBBBB: Data: (1, 43, 155, 245, 228)
+		Dlen: 5 Format: >bbbbb: Data: (1, 43, -101, -11, -28)
+	Raw Data: '7EA074906012B9BF5E4'
+	Command: 0906
+Packet:
+	Header 1: 7ea
+	Header 2: 10
+	Mode: -44
+	Command: 73
+	Data: 
+		Dlen: 5 Format: <I: Data: (1414136066,)
+		Dlen: 5 Format: <i: Data: (1414136066,)
+		Dlen: 5 Format: <HH: Data: (258, 21578)
+		Dlen: 5 Format: <hh: Data: (258, 21578)
+		Dlen: 5 Format: <BBBBB: Data: (2, 1, 74, 84, 68)
+		Dlen: 5 Format: <bbbbb: Data: (2, 1, 74, 84, 68)
+		Dlen: 5 Format: >I: Data: (33638996,)
+		Dlen: 5 Format: >i: Data: (33638996,)
+		Dlen: 5 Format: >HH: Data: (513, 19028)
+		Dlen: 5 Format: >hh: Data: (513, 19028)
+		Dlen: 5 Format: >BBBBB: Data: (2, 1, 74, 84, 68)
+		Dlen: 5 Format: >bbbbb: Data: (2, 1, 74, 84, 68)
+	Raw Data: '7EA10144902014A5444'
+	Command: 0902
+Packet:
+	Header 1: 7ea
+	Header 2: 10
+	Mode: 19
+	Command: 73
+	Data: 
+		Dlen: 5 Format: <I: Data: (959972612,)
+		Dlen: 5 Format: <i: Data: (959972612,)
+		Dlen: 5 Format: <HH: Data: (1284, 14648)
+		Dlen: 5 Format: <hh: Data: (1284, 14648)
+		Dlen: 5 Format: <BBBBB: Data: (4, 5, 56, 57, 57)
+		Dlen: 5 Format: <bbbbb: Data: (4, 5, 56, 57, 57)
+		Dlen: 5 Format: >I: Data: (67450937,)
+		Dlen: 5 Format: >i: Data: (67450937,)
+		Dlen: 5 Format: >HH: Data: (1029, 14393)
+		Dlen: 5 Format: >hh: Data: (1029, 14393)
+		Dlen: 5 Format: >BBBBB: Data: (4, 5, 56, 57, 57)
+		Dlen: 5 Format: >bbbbb: Data: (4, 5, 56, 57, 57)
+	Raw Data: '7EA1053490405383939'
+	Command: 0904
+Packet:
+	Header 1: 7ea
+	Header 2: 21
+	Mode: -8
+	Command: 51
+	Data: 
+		Dlen: 5 Format: <I: Data: (825374516,)
+		Dlen: 5 Format: <i: Data: (825374516,)
+		Dlen: 5 Format: <HH: Data: (14132, 12594)
+		Dlen: 5 Format: <hh: Data: (14132, 12594)
+		Dlen: 5 Format: <BBBBB: Data: (52, 55, 50, 49, 49)
+		Dlen: 5 Format: <bbbbb: Data: (52, 55, 50, 49, 49)
+		Dlen: 5 Format: >I: Data: (876032561,)
+		Dlen: 5 Format: >i: Data: (876032561,)
+		Dlen: 5 Format: >HH: Data: (13367, 12849)
+		Dlen: 5 Format: >hh: Data: (13367, 12849)
+		Dlen: 5 Format: >BBBBB: Data: (52, 55, 50, 49, 49)
+		Dlen: 5 Format: >bbbbb: Data: (52, 55, 50, 49, 49)
+	Raw Data: '7EA2138333437323131'
+	Command: 0904
+Packet:
+	Header 1: 7ea
+	Header 2: 21
+	Mode: 11
+	Command: 66
+	Data: 
+		Dlen: 5 Format: <I: Data: (827666482,)
+		Dlen: 5 Format: <i: Data: (827666482,)
+		Dlen: 5 Format: <HH: Data: (12338, 12629)
+		Dlen: 5 Format: <hh: Data: (12338, 12629)
+		Dlen: 5 Format: <BBBBB: Data: (50, 48, 85, 49, 54)
+		Dlen: 5 Format: <bbbbb: Data: (50, 48, 85, 49, 54)
+		Dlen: 5 Format: >I: Data: (842028337,)
+		Dlen: 5 Format: >i: Data: (842028337,)
+		Dlen: 5 Format: >HH: Data: (12848, 21809)
+		Dlen: 5 Format: >hh: Data: (12848, 21809)
+		Dlen: 5 Format: >BBBBB: Data: (50, 48, 85, 49, 54)
+		Dlen: 5 Format: >bbbbb: Data: (50, 48, 85, 49, 54)
+	Raw Data: '7EA214B423230553136'
+	Command: 0902
+Packet:
+	Header 1: 7ea
+	Header 2: 22
+	Mode: -16
+	Command: 49
+	Data: 
+		Dlen: 5 Format: <I: Data: (0,)
+		Dlen: 5 Format: <i: Data: (0,)
+		Dlen: 5 Format: <HH: Data: (0, 0)
+		Dlen: 5 Format: <hh: Data: (0, 0)
+		Dlen: 5 Format: <BBBBB: Data: (0, 0, 0, 0, 56)
+		Dlen: 5 Format: <bbbbb: Data: (0, 0, 0, 0, 56)
+		Dlen: 5 Format: >I: Data: (0,)
+		Dlen: 5 Format: >i: Data: (0,)
+		Dlen: 5 Format: >HH: Data: (0, 0)
+		Dlen: 5 Format: >hh: Data: (0, 0)
+		Dlen: 5 Format: >BBBBB: Data: (0, 0, 0, 0, 56)
+		Dlen: 5 Format: >bbbbb: Data: (0, 0, 0, 0, 56)
+	Raw Data: '7EA2230310000000038'
+	Command: 0904
+Packet:
+	Header 1: 7ea
+	Header 2: 22
+	Mode: -9
+	Command: 53
+	Data: 
+		Dlen: 5 Format: <I: Data: (825243952,)
+		Dlen: 5 Format: <i: Data: (825243952,)
+		Dlen: 5 Format: <HH: Data: (14640, 12592)
+		Dlen: 5 Format: <hh: Data: (14640, 12592)
+		Dlen: 5 Format: <BBBBB: Data: (48, 57, 48, 49, 53)
+		Dlen: 5 Format: <bbbbb: Data: (48, 57, 48, 49, 53)
+		Dlen: 5 Format: >I: Data: (809054257,)
+		Dlen: 5 Format: >i: Data: (809054257,)
+		Dlen: 5 Format: >HH: Data: (12345, 12337)
+		Dlen: 5 Format: >hh: Data: (12345, 12337)
+		Dlen: 5 Format: >BBBBB: Data: (48, 57, 48, 49, 53)
+		Dlen: 5 Format: >bbbbb: Data: (48, 57, 48, 49, 53)
+	Raw Data: '7EA2237353039303135'
+	Command: 0902
+Packet:
+	Header 1: 7ea
+	Header 2: 23
+	Mode: -7
+	Command: 57
+	Data: 
+		Dlen: 3 Format: <: Data: ()
+		Dlen: 3 Format: <: Data: ()
+		Dlen: 3 Format: <H: Data: (12600,)
+		Dlen: 3 Format: <h: Data: (12600,)
+		Dlen: 3 Format: <BBB: Data: (56, 49, 3)
+		Dlen: 3 Format: <bbb: Data: (56, 49, 3)
+		Dlen: 3 Format: >: Data: ()
+		Dlen: 3 Format: >: Data: ()
+		Dlen: 3 Format: >H: Data: (14385,)
+		Dlen: 3 Format: >h: Data: (14385,)
+		Dlen: 3 Format: >BBB: Data: (56, 49, 3)
+		Dlen: 3 Format: >bbb: Data: (56, 49, 3)
+	Raw Data: '7EA23393938313'
+	Command: 0904
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 1
+	Command: 4
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (0,)
+		Dlen: 1 Format: <b: Data: (0,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (0,)
+		Dlen: 1 Format: >b: Data: (0,)
+	Raw Data: '7EB03410400'
+	Command: 0104
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 1
+	Command: 5
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (89,)
+		Dlen: 1 Format: <b: Data: (89,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (89,)
+		Dlen: 1 Format: >b: Data: (89,)
+	Raw Data: '7EB03410559'
+	Command: 0105
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 1
+	Command: 13
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (0,)
+		Dlen: 1 Format: <b: Data: (0,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (0,)
+		Dlen: 1 Format: >b: Data: (0,)
+	Raw Data: '7EB03410D00'
+	Command: 010d
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 1
+	Command: 17
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (41,)
+		Dlen: 1 Format: <b: Data: (41,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (41,)
+		Dlen: 1 Format: >b: Data: (41,)
+	Raw Data: '7EB03411129'
+	Command: 0111
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 1
+	Command: 28
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (1,)
+		Dlen: 1 Format: <b: Data: (1,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (1,)
+		Dlen: 1 Format: >b: Data: (1,)
+	Raw Data: '7EB03411C01'
+	Command: 011c
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 1
+	Command: 48
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (255,)
+		Dlen: 1 Format: <b: Data: (-1,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (255,)
+		Dlen: 1 Format: >b: Data: (-1,)
+	Raw Data: '7EB034130FF'
+	Command: 0130
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 9
+	Command: 3
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (1,)
+		Dlen: 1 Format: <b: Data: (1,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (1,)
+		Dlen: 1 Format: >b: Data: (1,)
+	Raw Data: '7EB03490301'
+	Command: 0903
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EB037F2211'
+	Command: 2200
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EB037F2211'
+	Command: 2201
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EB037F2211'
+	Command: 2202
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EB037F2211'
+	Command: 2203
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EB037F2211'
+	Command: 2204
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EB037F2211'
+	Command: 2205
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EB037F2211'
+	Command: 2206
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EB037F2211'
+	Command: 2207
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EB037F2211'
+	Command: 2208
+Packet:
+	Header 1: 7eb
+	Header 2: 3
+	Mode: 63
+	Command: 34
+	Data: 
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <: Data: ()
+		Dlen: 1 Format: <B: Data: (17,)
+		Dlen: 1 Format: <b: Data: (17,)
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >: Data: ()
+		Dlen: 1 Format: >B: Data: (17,)
+		Dlen: 1 Format: >b: Data: (17,)
+	Raw Data: '7EB037F2211'
+	Command: 2209
+Packet:
+	Header 1: 7eb
+	Header 2: 4
+	Mode: 1
+	Command: 12
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (0,)
+		Dlen: 2 Format: <h: Data: (0,)
+		Dlen: 2 Format: <BB: Data: (0, 0)
+		Dlen: 2 Format: <bb: Data: (0, 0)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (0,)
+		Dlen: 2 Format: >h: Data: (0,)
+		Dlen: 2 Format: >BB: Data: (0, 0)
+		Dlen: 2 Format: >bb: Data: (0, 0)
+	Raw Data: '7EB04410C0000'
+	Command: 010c
+Packet:
+	Header 1: 7eb
+	Header 2: 4
+	Mode: 1
+	Command: 31
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (14336,)
+		Dlen: 2 Format: <h: Data: (14336,)
+		Dlen: 2 Format: <BB: Data: (0, 56)
+		Dlen: 2 Format: <bb: Data: (0, 56)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (56,)
+		Dlen: 2 Format: >h: Data: (56,)
+		Dlen: 2 Format: >BB: Data: (0, 56)
+		Dlen: 2 Format: >bb: Data: (0, 56)
+	Raw Data: '7EB04411F0038'
+	Command: 011f
+Packet:
+	Header 1: 7eb
+	Header 2: 4
+	Mode: 1
+	Command: 33
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (0,)
+		Dlen: 2 Format: <h: Data: (0,)
+		Dlen: 2 Format: <BB: Data: (0, 0)
+		Dlen: 2 Format: <bb: Data: (0, 0)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (0,)
+		Dlen: 2 Format: >h: Data: (0,)
+		Dlen: 2 Format: >BB: Data: (0, 0)
+		Dlen: 2 Format: >bb: Data: (0, 0)
+	Raw Data: '7EB0441210000'
+	Command: 0121
+Packet:
+	Header 1: 7eb
+	Header 2: 4
+	Mode: 1
+	Command: 49
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (65535,)
+		Dlen: 2 Format: <h: Data: (-1,)
+		Dlen: 2 Format: <BB: Data: (255, 255)
+		Dlen: 2 Format: <bb: Data: (-1, -1)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (65535,)
+		Dlen: 2 Format: >h: Data: (-1,)
+		Dlen: 2 Format: >BB: Data: (255, 255)
+		Dlen: 2 Format: >bb: Data: (-1, -1)
+	Raw Data: '7EB044131FFFF'
+	Command: 0131
+Packet:
+	Header 1: 7eb
+	Header 2: 4
+	Mode: 1
+	Command: 66
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (39990,)
+		Dlen: 2 Format: <h: Data: (-25546,)
+		Dlen: 2 Format: <BB: Data: (54, 156)
+		Dlen: 2 Format: <bb: Data: (54, -100)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (13980,)
+		Dlen: 2 Format: >h: Data: (13980,)
+		Dlen: 2 Format: >BB: Data: (54, 156)
+		Dlen: 2 Format: >bb: Data: (54, -100)
+	Raw Data: '7EB044142369C'
+	Command: 0142
+Packet:
+	Header 1: 7eb
+	Header 2: 4
+	Mode: 1
+	Command: 77
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (0,)
+		Dlen: 2 Format: <h: Data: (0,)
+		Dlen: 2 Format: <BB: Data: (0, 0)
+		Dlen: 2 Format: <bb: Data: (0, 0)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (0,)
+		Dlen: 2 Format: >h: Data: (0,)
+		Dlen: 2 Format: >BB: Data: (0, 0)
+		Dlen: 2 Format: >bb: Data: (0, 0)
+	Raw Data: '7EB04414D0000'
+	Command: 014d
+Packet:
+	Header 1: 7eb
+	Header 2: 4
+	Mode: 1
+	Command: 78
+	Data: 
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <: Data: ()
+		Dlen: 2 Format: <H: Data: (65535,)
+		Dlen: 2 Format: <h: Data: (-1,)
+		Dlen: 2 Format: <BB: Data: (255, 255)
+		Dlen: 2 Format: <bb: Data: (-1, -1)
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >: Data: ()
+		Dlen: 2 Format: >H: Data: (65535,)
+		Dlen: 2 Format: >h: Data: (-1,)
+		Dlen: 2 Format: >BB: Data: (255, 255)
+		Dlen: 2 Format: >bb: Data: (-1, -1)
+	Raw Data: '7EB04414EFFFF'
+	Command: 014e
+Packet:
+	Header 1: 7eb
+	Header 2: 6
+	Mode: 1
+	Command: 0
+	Data: 
+		Dlen: 4 Format: <I: Data: (327162008,)
+		Dlen: 4 Format: <i: Data: (327162008,)
+		Dlen: 4 Format: <HH: Data: (6296, 4992)
+		Dlen: 4 Format: <hh: Data: (6296, 4992)
+		Dlen: 4 Format: <BBBB: Data: (152, 24, 128, 19)
+		Dlen: 4 Format: <bbbb: Data: (-104, 24, -128, 19)
+		Dlen: 4 Format: >I: Data: (2551742483,)
+		Dlen: 4 Format: >i: Data: (-1743224813,)
+		Dlen: 4 Format: >HH: Data: (38936, 32787)
+		Dlen: 4 Format: >hh: Data: (-26600, -32749)
+		Dlen: 4 Format: >BBBB: Data: (152, 24, 128, 19)
+		Dlen: 4 Format: >bbbb: Data: (-104, 24, -128, 19)
+	Raw Data: '7EB06410098188013'
+	Command: 0100
+Packet:
+	Header 1: 7eb
+	Header 2: 6
+	Mode: 1
+	Command: 1
+	Data: 
+		Dlen: 4 Format: <I: Data: (1024,)
+		Dlen: 4 Format: <i: Data: (1024,)
+		Dlen: 4 Format: <HH: Data: (1024, 0)
+		Dlen: 4 Format: <hh: Data: (1024, 0)
+		Dlen: 4 Format: <BBBB: Data: (0, 4, 0, 0)
+		Dlen: 4 Format: <bbbb: Data: (0, 4, 0, 0)
+		Dlen: 4 Format: >I: Data: (262144,)
+		Dlen: 4 Format: >i: Data: (262144,)
+		Dlen: 4 Format: >HH: Data: (4, 0)
+		Dlen: 4 Format: >hh: Data: (4, 0)
+		Dlen: 4 Format: >BBBB: Data: (0, 4, 0, 0)
+		Dlen: 4 Format: >bbbb: Data: (0, 4, 0, 0)
+	Raw Data: '7EB06410100040000'
+	Command: 0101
+Packet:
+	Header 1: 7eb
+	Header 2: 6
+	Mode: 1
+	Command: 32
+	Data: 
+		Dlen: 4 Format: <I: Data: (25166208,)
+		Dlen: 4 Format: <i: Data: (25166208,)
+		Dlen: 4 Format: <HH: Data: (384, 384)
+		Dlen: 4 Format: <hh: Data: (384, 384)
+		Dlen: 4 Format: <BBBB: Data: (128, 1, 128, 1)
+		Dlen: 4 Format: <bbbb: Data: (-128, 1, -128, 1)
+		Dlen: 4 Format: >I: Data: (2147581953,)
+		Dlen: 4 Format: >i: Data: (-2147385343,)
+		Dlen: 4 Format: >HH: Data: (32769, 32769)
+		Dlen: 4 Format: >hh: Data: (-32767, -32767)
+		Dlen: 4 Format: >BBBB: Data: (128, 1, 128, 1)
+		Dlen: 4 Format: >bbbb: Data: (-128, 1, -128, 1)
+	Raw Data: '7EB06412080018001'
+	Command: 0120
+Packet:
+	Header 1: 7eb
+	Header 2: 6
+	Mode: 1
+	Command: 64
+	Data: 
+		Dlen: 4 Format: <I: Data: (3264,)
+		Dlen: 4 Format: <i: Data: (3264,)
+		Dlen: 4 Format: <HH: Data: (3264, 0)
+		Dlen: 4 Format: <hh: Data: (3264, 0)
+		Dlen: 4 Format: <BBBB: Data: (192, 12, 0, 0)
+		Dlen: 4 Format: <bbbb: Data: (-64, 12, 0, 0)
+		Dlen: 4 Format: >I: Data: (3222011904,)
+		Dlen: 4 Format: >i: Data: (-1072955392,)
+		Dlen: 4 Format: >HH: Data: (49164, 0)
+		Dlen: 4 Format: >hh: Data: (-16372, 0)
+		Dlen: 4 Format: >BBBB: Data: (192, 12, 0, 0)
+		Dlen: 4 Format: >bbbb: Data: (-64, 12, 0, 0)
+	Raw Data: '7EB064140C00C0000'
+	Command: 0140
+Packet:
+	Header 1: 7eb
+	Header 2: 6
+	Mode: 1
+	Command: 65
+	Data: 
+		Dlen: 4 Format: <I: Data: (1024,)
+		Dlen: 4 Format: <i: Data: (1024,)
+		Dlen: 4 Format: <HH: Data: (1024, 0)
+		Dlen: 4 Format: <hh: Data: (1024, 0)
+		Dlen: 4 Format: <BBBB: Data: (0, 4, 0, 0)
+		Dlen: 4 Format: <bbbb: Data: (0, 4, 0, 0)
+		Dlen: 4 Format: >I: Data: (262144,)
+		Dlen: 4 Format: >i: Data: (262144,)
+		Dlen: 4 Format: >HH: Data: (4, 0)
+		Dlen: 4 Format: >hh: Data: (4, 0)
+		Dlen: 4 Format: >BBBB: Data: (0, 4, 0, 0)
+		Dlen: 4 Format: >bbbb: Data: (0, 4, 0, 0)
+	Raw Data: '7EB06414100040000'
+	Command: 0141
+Packet:
+	Header 1: 7eb
+	Header 2: 6
+	Mode: 9
+	Command: 0
+	Data: 
+		Dlen: 4 Format: <I: Data: (48,)
+		Dlen: 4 Format: <i: Data: (48,)
+		Dlen: 4 Format: <HH: Data: (48, 0)
+		Dlen: 4 Format: <hh: Data: (48, 0)
+		Dlen: 4 Format: <BBBB: Data: (48, 0, 0, 0)
+		Dlen: 4 Format: <bbbb: Data: (48, 0, 0, 0)
+		Dlen: 4 Format: >I: Data: (805306368,)
+		Dlen: 4 Format: >i: Data: (805306368,)
+		Dlen: 4 Format: >HH: Data: (12288, 0)
+		Dlen: 4 Format: >hh: Data: (12288, 0)
+		Dlen: 4 Format: >BBBB: Data: (48, 0, 0, 0)
+		Dlen: 4 Format: >bbbb: Data: (48, 0, 0, 0)
+	Raw Data: '7EB06490030000000'
+	Command: 0900
+Packet:
+	Header 1: 7eb
+	Header 2: 10
+	Mode: -45
+	Command: 73
+	Data: 
+		Dlen: 5 Format: <I: Data: (959971588,)
+		Dlen: 5 Format: <i: Data: (959971588,)
+		Dlen: 5 Format: <HH: Data: (260, 14648)
+		Dlen: 5 Format: <hh: Data: (260, 14648)
+		Dlen: 5 Format: <BBBBB: Data: (4, 1, 56, 57, 56)
+		Dlen: 5 Format: <bbbbb: Data: (4, 1, 56, 57, 56)
+		Dlen: 5 Format: >I: Data: (67188793,)
+		Dlen: 5 Format: >i: Data: (67188793,)
+		Dlen: 5 Format: >HH: Data: (1025, 14393)
+		Dlen: 5 Format: >hh: Data: (1025, 14393)
+		Dlen: 5 Format: >BBBBB: Data: (4, 1, 56, 57, 56)
+		Dlen: 5 Format: >bbbbb: Data: (4, 1, 56, 57, 56)
+	Raw Data: '7EB1013490401383938'
+	Command: 0904
+Packet:
+	Header 1: 7eb
+	Header 2: 21
+	Mode: -7
+	Command: 48
+	Data: 
+		Dlen: 5 Format: <I: Data: (959461172,)
+		Dlen: 5 Format: <i: Data: (959461172,)
+		Dlen: 5 Format: <HH: Data: (14132, 14640)
+		Dlen: 5 Format: <hh: Data: (14132, 14640)
+		Dlen: 5 Format: <BBBBB: Data: (52, 55, 48, 57, 48)
+		Dlen: 5 Format: <bbbbb: Data: (52, 55, 48, 57, 48)
+		Dlen: 5 Format: >I: Data: (876032057,)
+		Dlen: 5 Format: >i: Data: (876032057,)
+		Dlen: 5 Format: >HH: Data: (13367, 12345)
+		Dlen: 5 Format: >hh: Data: (13367, 12345)
+		Dlen: 5 Format: >BBBBB: Data: (52, 55, 48, 57, 48)
+		Dlen: 5 Format: >bbbbb: Data: (52, 55, 48, 57, 48)
+	Raw Data: '7EB2139303437303930'
+	Command: 0904
+Packet:
+	Header 1: 7eb
+	Header 2: 22
+	Mode: -16
+	Command: 48
+	Data: 
+		Dlen: 5 Format: <I: Data: (0,)
+		Dlen: 5 Format: <i: Data: (0,)
+		Dlen: 5 Format: <HH: Data: (0, 0)
+		Dlen: 5 Format: <hh: Data: (0, 0)
+		Dlen: 5 Format: <BBBBB: Data: (0, 0, 0, 0, 0)
+		Dlen: 5 Format: <bbbbb: Data: (0, 0, 0, 0, 0)
+		Dlen: 5 Format: >I: Data: (0,)
+		Dlen: 5 Format: >i: Data: (0,)
+		Dlen: 5 Format: >HH: Data: (0, 0)
+		Dlen: 5 Format: >hh: Data: (0, 0)
+		Dlen: 5 Format: >BBBBB: Data: (0, 0, 0, 0, 0)
+		Dlen: 5 Format: >bbbbb: Data: (0, 0, 0, 0, 0)
+	Raw Data: '7EB2230300000000000'
+	Command: 0904
